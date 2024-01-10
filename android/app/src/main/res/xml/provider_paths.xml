@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!--
+        Define the paths where FileProvider can generate content URIs.
+        You can customize the paths based on your file structure.
+        This is just a basic example. Adjust it according to your needs.
+    -->
+    <external-path
+        name="share"
+        path="." />
+</paths>
